@@ -14,5 +14,5 @@ Languages: SQL, HTML, PHP
 
 ## How to run:
 Download all files. <br>
-Run create.sql in postgres to create the database (prepopulated with 50 unique book titles, some have multiple copies) <br>
+Run create.sql in Postgres to create the database (prepopulated with 50 unique book titles, some have multiple copies) <br>
 PHP files may be run on a locally hosted web-server (e.g. localhost:8080)
