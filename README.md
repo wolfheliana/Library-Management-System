@@ -10,10 +10,10 @@ Features include:
 -Print an invoice of a library card holder's past and current checkouts and owed overdue fees (higher fees for new releases)
 
 ## Languages/tools used:
-Database Management System: Postgres
+Database Management System: Postgres <br>
 Languages: SQL, HTML, PHP
 
 ## How to run:
-Download all files.
-Run create.sql in postgres to create the database (prepopulated with 50 unique book titles, some have multiple copies)
+Download all files. <br>
+Run create.sql in postgres to create the database (prepopulated with 50 unique book titles, some have multiple copies) <br>
 PHP files may be run on a locally hosted web-server (e.g. localhost:8080)
