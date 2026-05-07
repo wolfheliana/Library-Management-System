@@ -147,7 +147,7 @@ echo '</tr>';
 }
 
 if ($pastcheckoutsexist == FALSE) {
-echo'<tr><td colspan="7">No Current Checkouts</td></tr>';
+echo'<tr><td colspan="7">No Past Checkouts</td></tr>';
 }
 
 echo '</table>';
